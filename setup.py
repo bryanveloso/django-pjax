@@ -19,7 +19,6 @@ setup(
     author_email = 'jacob@jacobian.org',
 
     py_modules =  ['djpjax'],
-    install_requires = ['django>=1.3'],
 
     classifiers = (
         'Development Status :: 4 - Beta',
